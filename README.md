@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-singh-183249266/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-singh-183249266/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telement2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SingRajat)
 
@@ -50,58 +50,6 @@ Design → Instrument → Build → Observe → Harden → Scale
 | 👁️ **Computer Vision** | OpenCV · Haar Cascade · multimodal vision pipelines · facial analysis |
 
 </div>
-
----
-
-## Featured Projects
-
-### 🔷 [Synchro — Context-Aware RAG Chatbot](https://github.com/YOUR_GITHUB_USERNAME/synchro)
-
-> A production-grade conversational AI backend with advanced retrieval, persistent memory, and self-improving context management.
-
-Built a high-performance RAG system that goes beyond basic vector similarity — incorporating **Reciprocal Rank Fusion (RRF)**, **contextual query rewriting**, and **FlashRank re-ranking** for retrieval fidelity that actually holds up under diverse user queries. The system compresses long-term conversation history while continuously optimizing retrieval scoring from real-time user feedback.
-
-**Architecture:** FastAPI async backend → SQLAlchemy + PostgreSQL session store → LangChain RAG chain → RRF multi-retriever → FlashRank re-ranker → Llama-3 via Groq → persistent interaction telemetry
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](.)
-[![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)](.)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)](.)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](.)
-[![Groq](https://img.shields.io/badge/Groq_Llama--3-F55036?style=flat-square)](.)
-
----
-
-### 🔷 [E-Commerce Recommender Engine & Analytics Backend](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-rag-backend)
-
-> Semantic product retrieval with full production telemetry — a RAG backend monitored like a real system.
-
-Engineered a semantic retrieval layer over bulk product reviews using AstraDB vector storage, paired with multi-turn conversational context maintained across a stateless REST API. What makes this production-grade: **full Prometheus + Grafana instrumentation** from day one — API traffic, latency percentiles, and backend health visible in real time.
-
-**Architecture:** Flask REST API → AstraDB vectorized review ingestion → LangChain RAG chain → secure session layer → Prometheus metrics → Grafana dashboards
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](.)
-[![AstraDB](https://img.shields.io/badge/AstraDB-2196F3?style=flat-square)](.)
-[![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)](.)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](.)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](.)
-
----
-
-### 🔷 [CelebLens — AI-Powered Face Detection & Vision Analysis](https://github.com/YOUR_GITHUB_USERNAME/celeblens)
-
-> An automated computer vision pipeline combining classical detection with multimodal LLM vision analysis.
-
-Built an end-to-end image processing pipeline that handles in-memory image streams, detects and isolates faces using Haar Cascade classifiers with spatial bounding-box logic, applies a proportional padding crop algorithm, then routes normalized face crops to Google Gemini Vision for multimodal analysis — improving facial feature recognition accuracy downstream.
-
-**Architecture:** Image stream ingestion → OpenCV preprocessing → Haar Cascade face detection → dynamic crop with proportional padding → HuggingFace + Gemini Vision multimodal analysis
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](.)
-[![Gemini](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)](.)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](.)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](.)
 
 ---
 
