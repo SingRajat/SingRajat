@@ -157,16 +157,16 @@ Built an end-to-end image processing pipeline that handles in-memory image strea
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SingRajat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingRajat&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SingRajat&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true&color=6EE7B7&line=6EE7B7&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SingRajat&theme=github-compact&hide_border=true&area=true&color=6EE7B7&line=6EE7B7&point=ffffff" />
 
 </div>
 
