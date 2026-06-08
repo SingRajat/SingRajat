@@ -120,16 +120,6 @@ Design → Instrument → Build → Observe → Harden → Scale
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SingRajat&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Architecture Mindset
 
 ```
@@ -158,11 +148,11 @@ For AI systems specifically:
 ## Current Focus
 
 ```
-Production RAG Systems          ██████████████░░  88%
+Production RAG Systems          ██████████████    88%
 LLM Observability & Telemetry   ████████████████  95%
-Agentic AI with LangGraph       ████████████░░░░  75%
-Multi-Agent Orchestration       ██████████░░░░░░  62%
-AI Infrastructure at Scale      ████████░░░░░░░░  50%
+Agentic AI with LangGraph       ████████████      75%
+Multi-Agent Orchestration       ██████████        62%
+AI Infrastructure at Scale      ████████          50%
 ```
 
 ---
