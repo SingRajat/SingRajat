@@ -52,7 +52,7 @@ Design → Instrument → Build → Observe → Harden → Scale
 </div>
 
 ---
-
+<div align="center">
 <h2>⚙️Tech Arsenal</h2>
 
 <p>
@@ -112,7 +112,7 @@ Design → Instrument → Build → Observe → Harden → Scale
   <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="40" alt="NumPy" />
   
 </p>
-
+</div>
 ---
 
 
@@ -127,7 +127,7 @@ Design → Instrument → Build → Observe → Harden → Scale
 
 <h2>📊Contribution Graph</h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh_Rajat&theme=github-compact&hide_border=true&area=true&color=6EE7B7&line=6EE7B7&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghRajat&theme=github-compact&hide_border=true&area=true&color=6EE7B7&line=6EE7B7&point=ffffff" />
 </div>
 
 ---
