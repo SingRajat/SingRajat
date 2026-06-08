@@ -24,7 +24,7 @@ I build **production-grade AI systems** — not demos, not throwaway scripts. My
 
 Engineering philosophy: *instrument before you optimize — understand before you claim.*
 
-- I architect **context-aware RAG systems** with hybrid retrieval (RRF + re-ranking) that go beyond naive vector search
+- I architect **context-aware RAG systems** with hybrid retrieval that go beyond naive vector search
 - I design **agentic pipelines** with LangGraph and CrewAI that operate reliably across multi-turn, stateful workloads  
 - I ship with **Prometheus + Grafana** from day one — observability is part of the design, not an afterthought
 - I write **FastAPI backends** built for concurrency, session integrity, and clean separation of concerns
