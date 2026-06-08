@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rajat Singh
+<h1>Rajat Singh</h1>
 
 ### AI Systems Engineer · Agentic AI Architect · Observability-Driven Backend Developer
 
@@ -53,19 +53,17 @@ Design → Instrument → Build → Observe → Harden → Scale
 
 ---
 
-Tech Arsenal
-🧠 AI · GenAI · LLM
+<h2>⚙️Tech Arsenal</h2>
+
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" alt="PyTorch" />
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" alt="TensorFlow" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/-LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-LangGraph-00A67E?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-CrewAI-6366F1?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-RAG-0EA5E9?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+ 
 </p>
-⚙️ Languages
+
+🧠 **Languages**
+
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" alt="C++" />
@@ -74,27 +72,29 @@ Tech Arsenal
   <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS" />
+  
 </p>
-🔧 Backend & APIs
+
+🔧 **Backend & APIs**
+
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" alt="FastAPI" />
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" alt="Flask" />
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" />
-  <img src="https://img.shields.io/badge/-REST%20APIs-FF6B35?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+
 </p>
-🗄️ Databases & Vector Stores
+
+🗄️ **Databases & Vector Stores**
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-AstraDB-2196F3?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-FAISS-764ABC?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-Vector%20DBs-0EA5E9?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+ 
 </p>
-📡 Observability & DevOps
+
+📡 **Observability & DevOps**
+
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="40" alt="Prometheus" />
   <img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="40" alt="Grafana" />
@@ -102,32 +102,32 @@ Tech Arsenal
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" />
+  
 </p>
-👁️ Computer Vision
+
+👁️ **Computer Vision**
+
 <p>
   <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="40" alt="OpenCV" />
   <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="40" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-Gemini%20Vision-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a2e" height="40" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="40" />
+  
 </p>
 
 ---
 
-## GitHub Analytics
 
+
+<h2>⚙️GitHub Activity</h2> (Public repositories only)
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SingRajat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingRajat&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Singh_Rajat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&ring_color=6EE7B7" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh_Rajat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=6EE7B7&text_color=ffffff" />
 <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Singh_Rajat&theme=github-dark-blue&hide_border=true&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=6EE7B7&stroke=6EE7B7&currStreakNum=6EE7B7&sideNums=6EE7B7" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SingRajat&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SingRajat&theme=github-compact&hide_border=true&area=true&color=6EE7B7&line=6EE7B7&point=ffffff" />
-
+<h2>📊Contribution Graph</h2>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh_Rajat&theme=github-compact&hide_border=true&area=true&color=6EE7B7&line=6EE7B7&point=ffffff" />
 </div>
 
 ---
