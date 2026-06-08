@@ -53,51 +53,63 @@ Design → Instrument → Build → Observe → Harden → Scale
 
 ---
 
-## Tech Arsenal
-
-**AI · GenAI · LLM**
-
-[![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)](.)
-[![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square)](.)
-[![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=flat-square)](.)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](.)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)](.)
-[![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=flat-square)](.)
-[![Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-8B5CF6?style=flat-square)](.)
-[![Gemini](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)](.)
-[![Groq](https://img.shields.io/badge/Groq_Llama--3-F55036?style=flat-square)](.)
-
-**Backend · APIs**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](.)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](.)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)](.)
-[![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](.)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)](.)
-
-**Databases · Vector Stores**
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](.)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](.)
-[![AstraDB](https://img.shields.io/badge/AstraDB-2196F3?style=flat-square)](.)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)](.)
-[![FAISS](https://img.shields.io/badge/FAISS-764ABC?style=flat-square)](.)
-
-**Observability · DevOps**
-
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](.)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](.)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](.)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](.)
-
-**Languages**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](.)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](.)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](.)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](.)
+Tech Arsenal
+🧠 AI · GenAI · LLM
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" alt="TensorFlow" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/-LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-LangGraph-00A67E?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-CrewAI-6366F1?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-RAG-0EA5E9?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+</p>
+⚙️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS" />
+</p>
+🔧 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-FF6B35?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+</p>
+🗄️ Databases & Vector Stores
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-AstraDB-2196F3?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-FAISS-764ABC?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-Vector%20DBs-0EA5E9?style=flat-square&logoColor=white&labelColor=1a1a2e" height="40" />
+</p>
+📡 Observability & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="40" alt="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="40" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" />
+</p>
+👁️ Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="40" alt="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="40" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Gemini%20Vision-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a2e" height="40" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="40" />
+</p>
 
 ---
 
