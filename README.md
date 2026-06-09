@@ -121,8 +121,8 @@ Design → Instrument → Build → Observe → Harden → Scale
 
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Singh_Rajat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&ring_color=6EE7B7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh_Rajat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=6EE7B7&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SingRajat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&ring_color=6EE7B7" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingRajat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=6EE7B7&text_color=ffffff" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Sing_Rajat&theme=github-dark-blue&hide_border=true&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=6EE7B7&stroke=6EE7B7&currStreakNum=6EE7B7&sideNums=6EE7B7" />
 </div>
